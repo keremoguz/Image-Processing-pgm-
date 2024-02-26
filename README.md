@@ -11,7 +11,7 @@ User will provide three words separated by single whitespaces in the form <INPUT
 Variable inp_filename: non-empty word <INPUT_FILE>. Name of the input image file. Always will be a .pgm file.
 Variable operation: non-empty word <COMMAND>. Name of the command. Possible values: misalign, sort_columns, sort_rows_border, highpass
 Variable out_filename: non-empty word <OUTPUT_FILE>. Name of the output image file. Always will be a .pgm file.
-(Test cases are provided)
+(Test cases are provided).
 ## PROGRAMMING LANGUAGE
-Python programming language is used used.
+Python programming language is used.
 
